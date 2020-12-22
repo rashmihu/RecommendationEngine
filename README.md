@@ -8,7 +8,7 @@ A hybrid recommendation model is studied [[1]](https://ieeexplore.ieee.org/docum
  Masters in computer science from the University of North Carolina At Greensboro. 
 
 ## Technologies and Packages used
-Python, Shell, Pyspark 2.4.5, Hadoop 2.4.7, pandas, numpy, scipy sparksql and MLLib
+Python, Shell, Pyspark 2.4.5, Hadoop 2.7, pandas, numpy, scipy sparksql and MLLib
 
 ## Implementation Details
 ![](/images/implementationDetails.png)
