@@ -14,6 +14,6 @@ Python, Shell, Pyspark 2.4.5, Hadoop 2.4.7, pandas, numpy, scipy sparksql and ML
 ![](/images/implementationDetails.png)
 ## Project Structure
 ![](/images/projectStructure.png)
-## Coclusion
+## Conclusion
 To improve the recommendation accuracy of the hybrid model we need to consider the vector dimensionality of the review vectors as well as the number of communities in the social network.With the large yelp dataset, we observed L2 normalization of review feature vectors and blended vectors achieves better prediction accuracy. From the experiments conducted, we observe that the best recommendation accuracy based on RMSE and MAE is achieved with Word2Vec feature dimension of 40, number of communities as 15 and trained with Random Forest regression. We also observed that splitting the dataset into training and testing ordered by date works better when
 using Word2Vec with linear regression model.
